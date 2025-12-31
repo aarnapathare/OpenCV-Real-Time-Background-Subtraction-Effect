@@ -1,0 +1,1 @@
+This project was created as a learning exercise while exploring real-time computer vision with OpenCV. It is not currently maintained and may require minor fixes or updates to run in modern environments.
